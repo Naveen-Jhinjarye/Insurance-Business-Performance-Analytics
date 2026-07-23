@@ -98,9 +98,7 @@ The objective of this project is to help business stakeholders monitor key perfo
 ---
 
 ## 📸 Dashboard Preview
-
-## 📸 Dashboard Preview
-
+ 
 ### 📊 General Dashboard
 ![General Dashboard](Dashboard_screenshot/Screenshot%20(861).png)
 
