@@ -99,7 +99,20 @@ The objective of this project is to help business stakeholders monitor key perfo
 
 ## 📸 Dashboard Preview
 
-> Add dashboard screenshots here.
+## 📸 Dashboard Preview
+
+### 📊 General Dashboard
+![General Dashboard](Dashboard_screenshot/Screenshot%20(861).png)
+
+---
+
+### 📈 Sales Channel Dashboard
+![Sales Channel Dashboard](Dashboard_screenshot/Screenshot%20(862).png)
+
+---
+
+### 👥 Age Group Dashboard
+![Age Group Dashboard](Dashboard_screenshot/Screenshot%20(863).png)
 
 ---
 
